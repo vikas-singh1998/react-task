@@ -1,0 +1,22 @@
+.pokImage{
+    text-align: center;
+}
+.row{
+    max-width: 1200px;
+    margin: auto;
+}
+
+.card-img-top{
+    height: 200px !important ;
+    width: 238px !important;
+}
+.card{
+    padding: 10px;
+    width: 300px;
+}
+
+.dropdown{
+    display: flex;
+    float: right;
+    margin-left: 200px;
+}
